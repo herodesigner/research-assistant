@@ -5,7 +5,7 @@ Author: Princess Ariyibi
 This function determines if a given number is a prime number.
 You can run this file using 
 
-		go run app.go
+		go run proth_prime.go
 
 */
 
